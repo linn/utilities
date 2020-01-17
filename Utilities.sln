@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HardwareProxy", "HardwareProxy\HardwareProxy.csproj", "{CBBD3AF2-33FE-40A5-AB26-83F956ED9244}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoardReaderApp", "BoardReaderApp\BoardReaderApp.csproj", "{44048BD8-DBBC-413E-93FC-DADED47948DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBD3AF2-33FE-40A5-AB26-83F956ED9244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBD3AF2-33FE-40A5-AB26-83F956ED9244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBD3AF2-33FE-40A5-AB26-83F956ED9244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBD3AF2-33FE-40A5-AB26-83F956ED9244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44048BD8-DBBC-413E-93FC-DADED47948DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44048BD8-DBBC-413E-93FC-DADED47948DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44048BD8-DBBC-413E-93FC-DADED47948DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44048BD8-DBBC-413E-93FC-DADED47948DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18B79972-3657-43E1-A274-3912646A70E3}
+	EndGlobalSection
+EndGlobal
